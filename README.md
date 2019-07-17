@@ -26,4 +26,4 @@ mvn clean install
 Check For Jar file : [com.autom.sha2nk-0.0.1-SNAPSHOT-jar-with-dependencies , com.autom.sha2nk-0.0.1-SNAPSHOT , com.autom.sha2nk-0.0.1-SNAPSHOT-javadocs]
 
 
-Run Java -Xms100m -jar com.autom.sha2nk-0.0.1-SNAPSHOT-jar-with-dependencies
+Run Java -Xmx100m -jar com.autom.sha2nk-0.0.1-SNAPSHOT-jar-with-dependencies
