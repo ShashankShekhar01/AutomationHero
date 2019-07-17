@@ -27,3 +27,7 @@ Check For Jar file : [com.autom.sha2nk-0.0.1-SNAPSHOT-jar-with-dependencies , co
 
 
 Run Java -Xmx100m -jar com.autom.sha2nk-0.0.1-SNAPSHOT-jar-with-dependencies
+
+
+# Fututre Imporvements
+Multi Threading can be used to increase the performance when merging different files.
