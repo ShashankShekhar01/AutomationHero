@@ -7,7 +7,7 @@ Automation Hero Hiring Sort Big File
 
 --------------
 
-The main file is [AutoationHero.java]
+The main file is [AutoationHero.java]. This Program Sorts a file containing integers having size more than heap size.
 
 
 Setup
