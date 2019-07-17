@@ -44,7 +44,7 @@ public class AutomationHeroTest {
 	}
 
 	@Test
-	//@Ignore
+	@Ignore
 	public void testBigFile2Sort() throws Exception {
 		System.out.println("Testing with a big File. This Test takes some time to execute.");
 		try {
